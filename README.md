@@ -1,6 +1,6 @@
 # dataframe
 ## 説明
-data.csvファイルをDataFrameに変換し、number列の統計情報を表示する。
+data.csvファイルの内容をDataFrameに変換し、number列の統計情報を表示する。
 
 ## 実行結果
 ```
